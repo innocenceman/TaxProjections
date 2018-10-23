@@ -1,0 +1,31 @@
+﻿<Tax>
+  <Matrixcontrol>
+    
+    <Fullexplorer>91.11</Fullexplorer>                            <!--全屏状态下浏览器菜单栏的高度（像素点）-->
+    <Notfullexplorer>118.0</Notfullexplorer>                      <!--非全屏状态下浏览器菜单栏的高度（像素点）-->
+    <ExplorerRelatescreen_X>0.0</ExplorerRelatescreen_X>         
+    <ExplorerRelatescreen_Y>1080.0</ExplorerRelatescreen_Y>       <!--浏览器原点距屏幕原点的位移(X,Y)（像素点）-->
+    <ScreenRelateimage_X>-960.0</ScreenRelateimage_X>
+    <ScreenRelateimage_Y>-540.0</ScreenRelateimage_Y>             <!--屏幕原点距标识图原点的位移(X,Y)（像素点）-->
+
+    <ScreenWidth_physic>0.51</ScreenWidth_physic>                 <!--电脑屏幕实际物理尺寸的宽度（米）-->
+    <ScreenHeight_physic>0.29</ScreenHeight_physic>               <!--电脑屏幕实际物理尺寸的高度（米）-->
+    <ScreenWidth_pixel>1920</ScreenWidth_pixel>                   <!--电脑屏幕实际像素尺寸的宽度（像素点）-->
+    <ScreenHeight_pixel>1080</ScreenHeight_pixel>                 <!--电脑屏幕实际像素尺寸的高度（像素点）-->
+
+  </Matrixcontrol>
+  
+  <RecieveTipsMessage>
+    
+    <host>10.23.19.24</host>                                      <!--ip地址-->
+    <port>8888</port>                                             <!--端口号-->
+    <BUFFER_SIZE>1048576</BUFFER_SIZE>                            <!--接收字符的字节数组大小-->
+  
+  </RecieveTipsMessage>
+
+<item2>
+    <host>2</host>
+    <port>usa</port>
+    <year>2017</year>
+  </item2>
+</Tax>

@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 9b0b967496949b64facb7dda0c25cee7
+timeCreated: 1531821600
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Cross recessed countersunk head screws GB1-1-solid003
+    100004: Cross recessed countersunk head screws GB1-2-solid003
+    100006: Cross recessed countersunk head screws GB1-3-solid1
+    100008: Cross recessed countersunk head screws GB1-4-solid1
+    100010: Cross recessed small pan head screws GB-1-solid1
+    100012: Cross recessed small pan head screws GB-2-solid1
+    100014: Cross recessed small pan head screws GB-3-solid1
+    100016: Cross recessed small pan head screws GB-4-solid1
+    100018: "C\u63A5\u5708-1-solid1"
+    100020: "GCM-030105M\u652F\u6746\uFF08203\uFF09-1-solid1"
+    100022: "GCM-030105M\u652F\u6746\uFF08203\uFF09-2-solid1"
+    100024: "GCM-030105M\u652F\u6746\uFF08203\uFF09-3-solid1"
+    100026: Hex socket set screws with cone point GB-3-solid1
+    100028: Hex socket set screws with cone point GB-4-solid1
+    100030: Hexagon socket head cap screws GB-1-solid1
+    100032: Hexagon socket head cap screws GB-2-solid1
+    100034: Hexagon socket head cap screws GB-3-solid1
+    100036: Hexagon socket head cap screws GB-4-solid1
+    100038: Hexagon socket head cap screws GB-5-solid1
+    100040: Hexagon socket head cap screws GB-6-solid1
+    100042: Hexagon socket head cap screws GB-7-solid1
+    100044: Hexagon socket head cap screws GB-8-solid1
+    100046: Hexagon socket head cap screws GB-9-solid1
+    100048: Knurled thumb screws GB-1-solid1
+    100050: Knurled thumb screws GB-2-solid1
+    100052: Knurled thumb screws GB-3-solid1
+    100054: Lid Nut GB-1-solid1
+    100056: Lid Nut GB-2-solid1
+    100058: Lid Nut GB-3-solid1
+    100060: "M6 \u87BA\u7EB9\u5B54002"
+    100062: "M6 \u87BA\u7EB9\u5B54003"
+    100064: //RootNode
+    100066: "\u5012\u89D2005"
+    100068: "\u5012\u89D2006"
+    100070: "\u5012\u89D2007"
+    100072: "\u5012\u89D23"
+    100074: "\u524D\u9762\u677F-1-solid1"
+    100076: "\u52A8\u5757-1-solid1"
+    100078: "\u538B\u6761-1-solid1"
+    100080: "\u538B\u6761-2-solid1"
+    100082: "\u53CC\u51F8\u900F\u955C-1-solid1"
+    100084: "\u5730\u811A\uFF08\u6539\uFF09-1-solid1"
+    100086: "\u5730\u811A\uFF08\u6539\uFF09-2-solid1"
+    100088: "\u5730\u811A\uFF08\u6539\uFF09-3-solid1"
+    100090: "\u5730\u811A\uFF08\u6539\uFF09-4-solid1"
+    100092: "\u578B\u6750\u58F3-1-solid1"
+    100094: "\u5835\u5934-1-solid1"
+    100096: "\u5916\u58F3-1-solid003"
+    100098: "\u5916\u58F3-1-solid004"
+    100100: "\u5916\u58F3-1-solid1"
+    100102: "\u5927\u9501\u5708-1-solid1"
+    100104: "\u5BF9\u8C61001"
+    100106: "\u5BF9\u8C61002"
+    100108: "\u5E95\u677F-1-solid1"
+    100110: "\u63A5\u7EBF-1-solid003"
+    100112: "\u63A5\u7EBF-1-solid004"
+    100114: "\u63A5\u7EBF-1-solid1"
+    100116: "\u76F8\u673A\u53F0-1-solid1"
+    100118: "\u7ACB\u67F1-1/Rack Spur Rectangular_AI-1-solid1"
+    100120: "\u7ACB\u67F1-1/\u4E91\u53F0-1-solid1"
+    100122: "\u7ACB\u67F1-1/\u5E95\u5EA7-1-solid1"
+    100124: "\u7ACB\u67F1-1/\u7ACB\u67F1-1-solid1"
+    100126: "\u7AEF\u76D6-1-solid1"
+    100128: "\u80CC\u5149\u677F-1-solid1"
+    100130: "\u9501\u7D27\u94AE-1-solid1"
+    100132: "\u9501\u7D27\u94AE-2-solid002"
+    100134: "\u955C\u7B52-1-solid1"
+    400000: Box001
+    400002: Cross recessed countersunk head screws GB1-1-solid003
+    400004: Cross recessed countersunk head screws GB1-2-solid003
+    400006: Cross recessed countersunk head screws GB1-3-solid1
+    400008: Cross recessed countersunk head screws GB1-4-solid1
+    400010: Cross recessed small pan head screws GB-1-solid1
+    400012: Cross recessed small pan head screws GB-2-solid1
+    400014: Cross recessed small pan head screws GB-3-solid1
+    400016: Cross recessed small pan head screws GB-4-solid1
+    400018: "C\u63A5\u5708-1-solid1"
+    400020: "GCM-030105M\u652F\u6746\uFF08203\uFF09-1-solid1"
+    400022: "GCM-030105M\u652F\u6746\uFF08203\uFF09-2-solid1"
+    400024: "GCM-030105M\u652F\u6746\uFF08203\uFF09-3-solid1"
+    400026: Hex socket set screws with cone point GB-3-solid1
+    400028: Hex socket set screws with cone point GB-4-solid1
+    400030: Hexagon socket head cap screws GB-1-solid1
+    400032: Hexagon socket head cap screws GB-2-solid1
+    400034: Hexagon socket head cap screws GB-3-solid1
+    400036: Hexagon socket head cap screws GB-4-solid1
+    400038: Hexagon socket head cap screws GB-5-solid1
+    400040: Hexagon socket head cap screws GB-6-solid1
+    400042: Hexagon socket head cap screws GB-7-solid1
+    400044: Hexagon socket head cap screws GB-8-solid1
+    400046: Hexagon socket head cap screws GB-9-solid1
+    400048: Knurled thumb screws GB-1-solid1
+    400050: Knurled thumb screws GB-2-solid1
+    400052: Knurled thumb screws GB-3-solid1
+    400054: Lid Nut GB-1-solid1
+    400056: Lid Nut GB-2-solid1
+    400058: Lid Nut GB-3-solid1
+    400060: "M6 \u87BA\u7EB9\u5B54002"
+    400062: "M6 \u87BA\u7EB9\u5B54003"
+    400064: //RootNode
+    400066: "\u5012\u89D2005"
+    400068: "\u5012\u89D2006"
+    400070: "\u5012\u89D2007"
+    400072: "\u5012\u89D23"
+    400074: "\u524D\u9762\u677F-1-solid1"
+    400076: "\u52A8\u5757-1-solid1"
+    400078: "\u538B\u6761-1-solid1"
+    400080: "\u538B\u6761-2-solid1"
+    400082: "\u53CC\u51F8\u900F\u955C-1-solid1"
+    400084: "\u5730\u811A\uFF08\u6539\uFF09-1-solid1"
+    400086: "\u5730\u811A\uFF08\u6539\uFF09-2-solid1"
+    400088: "\u5730\u811A\uFF08\u6539\uFF09-3-solid1"
+    400090: "\u5730\u811A\uFF08\u6539\uFF09-4-solid1"
+    400092: "\u578B\u6750\u58F3-1-solid1"
+    400094: "\u5835\u5934-1-solid1"
+    400096: "\u5916\u58F3-1-solid003"
+    400098: "\u5916\u58F3-1-solid004"
+    400100: "\u5916\u58F3-1-solid1"
+    400102: "\u5927\u9501\u5708-1-solid1"
+    400104: "\u5BF9\u8C61001"
+    400106: "\u5BF9\u8C61002"
+    400108: "\u5E95\u677F-1-solid1"
+    400110: "\u63A5\u7EBF-1-solid003"
+    400112: "\u63A5\u7EBF-1-solid004"
+    400114: "\u63A5\u7EBF-1-solid1"
+    400116: "\u76F8\u673A\u53F0-1-solid1"
+    400118: "\u7ACB\u67F1-1/Rack Spur Rectangular_AI-1-solid1"
+    400120: "\u7ACB\u67F1-1/\u4E91\u53F0-1-solid1"
+    400122: "\u7ACB\u67F1-1/\u5E95\u5EA7-1-solid1"
+    400124: "\u7ACB\u67F1-1/\u7ACB\u67F1-1-solid1"
+    400126: "\u7AEF\u76D6-1-solid1"
+    400128: "\u80CC\u5149\u677F-1-solid1"
+    400130: "\u9501\u7D27\u94AE-1-solid1"
+    400132: "\u9501\u7D27\u94AE-2-solid002"
+    400134: "\u955C\u7B52-1-solid1"
+    2100000: 01 - Default
+    2100002: 'Material #26'
+    2100004: 'Material #25'
+    2100006: 'Material #28'
+    2100008: 'Material #31'
+    2100010: 'Material #36'
+    2100012: 'Material #39'
+    2100014: 'Material #40'
+    2100016: 'Material #42'
+    2100018: 'Material #41'
+    2100020: No Name
+    2300000: Box001
+    2300002: Cross recessed countersunk head screws GB1-1-solid003
+    2300004: Cross recessed countersunk head screws GB1-2-solid003
+    2300006: Cross recessed countersunk head screws GB1-3-solid1
+    2300008: Cross recessed countersunk head screws GB1-4-solid1
+    2300010: Cross recessed small pan head screws GB-1-solid1
+    2300012: Cross recessed small pan head screws GB-2-solid1
+    2300014: Cross recessed small pan head screws GB-3-solid1
+    2300016: Cross recessed small pan head screws GB-4-solid1
+    2300018: "C\u63A5\u5708-1-solid1"
+    2300020: "GCM-030105M\u652F\u6746\uFF08203\uFF09-1-solid1"
+    2300022: "GCM-030105M\u652F\u6746\uFF08203\uFF09-2-solid1"
+    2300024: "GCM-030105M\u652F\u6746\uFF08203\uFF09-3-solid1"
+    2300026: Hex socket set screws with cone point GB-3-solid1
+    2300028: Hex socket set screws with cone point GB-4-solid1
+    2300030: Hexagon socket head cap screws GB-1-solid1
+    2300032: Hexagon socket head cap screws GB-2-solid1
+    2300034: Hexagon socket head cap screws GB-3-solid1
+    2300036: Hexagon socket head cap screws GB-4-solid1
+    2300038: Hexagon socket head cap screws GB-5-solid1
+    2300040: Hexagon socket head cap screws GB-6-solid1
+    2300042: Hexagon socket head cap screws GB-7-solid1
+    2300044: Hexagon socket head cap screws GB-8-solid1
+    2300046: Hexagon socket head cap screws GB-9-solid1
+    2300048: Knurled thumb screws GB-1-solid1
+    2300050: Knurled thumb screws GB-2-solid1
+    2300052: Knurled thumb screws GB-3-solid1
+    2300054: Lid Nut GB-1-solid1
+    2300056: Lid Nut GB-2-solid1
+    2300058: Lid Nut GB-3-solid1
+    2300060: "M6 \u87BA\u7EB9\u5B54002"
+    2300062: "M6 \u87BA\u7EB9\u5B54003"
+    2300064: "\u5012\u89D2005"
+    2300066: "\u5012\u89D2006"
+    2300068: "\u5012\u89D2007"
+    2300070: "\u5012\u89D23"
+    2300072: "\u524D\u9762\u677F-1-solid1"
+    2300074: "\u52A8\u5757-1-solid1"
+    2300076: "\u538B\u6761-1-solid1"
+    2300078: "\u538B\u6761-2-solid1"
+    2300080: "\u53CC\u51F8\u900F\u955C-1-solid1"
+    2300082: "\u5730\u811A\uFF08\u6539\uFF09-1-solid1"
+    2300084: "\u5730\u811A\uFF08\u6539\uFF09-2-solid1"
+    2300086: "\u5730\u811A\uFF08\u6539\uFF09-3-solid1"
+    2300088: "\u5730\u811A\uFF08\u6539\uFF09-4-solid1"
+    2300090: "\u578B\u6750\u58F3-1-solid1"
+    2300092: "\u5835\u5934-1-solid1"
+    2300094: "\u5916\u58F3-1-solid003"
+    2300096: "\u5916\u58F3-1-solid004"
+    2300098: "\u5916\u58F3-1-solid1"
+    2300100: "\u5927\u9501\u5708-1-solid1"
+    2300102: "\u5BF9\u8C61001"
+    2300104: "\u5BF9\u8C61002"
+    2300106: "\u5E95\u677F-1-solid1"
+    2300108: "\u63A5\u7EBF-1-solid003"
+    2300110: "\u63A5\u7EBF-1-solid004"
+    2300112: "\u63A5\u7EBF-1-solid1"
+    2300114: "\u76F8\u673A\u53F0-1-solid1"
+    2300116: "\u7ACB\u67F1-1/Rack Spur Rectangular_AI-1-solid1"
+    2300118: "\u7ACB\u67F1-1/\u4E91\u53F0-1-solid1"
+    2300120: "\u7ACB\u67F1-1/\u5E95\u5EA7-1-solid1"
+    2300122: "\u7ACB\u67F1-1/\u7ACB\u67F1-1-solid1"
+    2300124: "\u7AEF\u76D6-1-solid1"
+    2300126: "\u80CC\u5149\u677F-1-solid1"
+    2300128: "\u9501\u7D27\u94AE-1-solid1"
+    2300130: "\u9501\u7D27\u94AE-2-solid002"
+    2300132: "\u955C\u7B52-1-solid1"
+    3300000: Box001
+    3300002: Cross recessed countersunk head screws GB1-1-solid003
+    3300004: Cross recessed countersunk head screws GB1-2-solid003
+    3300006: Cross recessed countersunk head screws GB1-3-solid1
+    3300008: Cross recessed countersunk head screws GB1-4-solid1
+    3300010: Cross recessed small pan head screws GB-1-solid1
+    3300012: Cross recessed small pan head screws GB-2-solid1
+    3300014: Cross recessed small pan head screws GB-3-solid1
+    3300016: Cross recessed small pan head screws GB-4-solid1
+    3300018: "C\u63A5\u5708-1-solid1"
+    3300020: "GCM-030105M\u652F\u6746\uFF08203\uFF09-1-solid1"
+    3300022: "GCM-030105M\u652F\u6746\uFF08203\uFF09-2-solid1"
+    3300024: "GCM-030105M\u652F\u6746\uFF08203\uFF09-3-solid1"
+    3300026: Hex socket set screws with cone point GB-3-solid1
+    3300028: Hex socket set screws with cone point GB-4-solid1
+    3300030: Hexagon socket head cap screws GB-1-solid1
+    3300032: Hexagon socket head cap screws GB-2-solid1
+    3300034: Hexagon socket head cap screws GB-3-solid1
+    3300036: Hexagon socket head cap screws GB-4-solid1
+    3300038: Hexagon socket head cap screws GB-5-solid1
+    3300040: Hexagon socket head cap screws GB-6-solid1
+    3300042: Hexagon socket head cap screws GB-7-solid1
+    3300044: Hexagon socket head cap screws GB-8-solid1
+    3300046: Hexagon socket head cap screws GB-9-solid1
+    3300048: Knurled thumb screws GB-1-solid1
+    3300050: Knurled thumb screws GB-2-solid1
+    3300052: Knurled thumb screws GB-3-solid1
+    3300054: Lid Nut GB-1-solid1
+    3300056: Lid Nut GB-2-solid1
+    3300058: Lid Nut GB-3-solid1
+    3300060: "M6 \u87BA\u7EB9\u5B54002"
+    3300062: "M6 \u87BA\u7EB9\u5B54003"
+    3300064: "\u5012\u89D2005"
+    3300066: "\u5012\u89D2006"
+    3300068: "\u5012\u89D2007"
+    3300070: "\u5012\u89D23"
+    3300072: "\u524D\u9762\u677F-1-solid1"
+    3300074: "\u52A8\u5757-1-solid1"
+    3300076: "\u538B\u6761-1-solid1"
+    3300078: "\u538B\u6761-2-solid1"
+    3300080: "\u53CC\u51F8\u900F\u955C-1-solid1"
+    3300082: "\u5730\u811A\uFF08\u6539\uFF09-1-solid1"
+    3300084: "\u5730\u811A\uFF08\u6539\uFF09-2-solid1"
+    3300086: "\u5730\u811A\uFF08\u6539\uFF09-3-solid1"
+    3300088: "\u5730\u811A\uFF08\u6539\uFF09-4-solid1"
+    3300090: "\u578B\u6750\u58F3-1-solid1"
+    3300092: "\u5835\u5934-1-solid1"
+    3300094: "\u5916\u58F3-1-solid003"
+    3300096: "\u5916\u58F3-1-solid004"
+    3300098: "\u5916\u58F3-1-solid1"
+    3300100: "\u5927\u9501\u5708-1-solid1"
+    3300102: "\u5BF9\u8C61001"
+    3300104: "\u5BF9\u8C61002"
+    3300106: "\u5E95\u677F-1-solid1"
+    3300108: "\u63A5\u7EBF-1-solid003"
+    3300110: "\u63A5\u7EBF-1-solid004"
+    3300112: "\u63A5\u7EBF-1-solid1"
+    3300114: "\u76F8\u673A\u53F0-1-solid1"
+    3300116: "\u7ACB\u67F1-1/Rack Spur Rectangular_AI-1-solid1"
+    3300118: "\u7ACB\u67F1-1/\u4E91\u53F0-1-solid1"
+    3300120: "\u7ACB\u67F1-1/\u5E95\u5EA7-1-solid1"
+    3300122: "\u7ACB\u67F1-1/\u7ACB\u67F1-1-solid1"
+    3300124: "\u7AEF\u76D6-1-solid1"
+    3300126: "\u80CC\u5149\u677F-1-solid1"
+    3300128: "\u9501\u7D27\u94AE-1-solid1"
+    3300130: "\u9501\u7D27\u94AE-2-solid002"
+    3300132: "\u955C\u7B52-1-solid1"
+    4300000: "\u7ACB\u67F1-1/\u7ACB\u67F1-1-solid1"
+    4300002: "\u7ACB\u67F1-1/Rack Spur Rectangular_AI-1-solid1"
+    4300004: "\u7ACB\u67F1-1/\u4E91\u53F0-1-solid1"
+    4300006: "\u7ACB\u67F1-1/\u5E95\u5EA7-1-solid1"
+    4300008: "\u5E95\u677F-1-solid1"
+    4300010: "GCM-030105M\u652F\u6746\uFF08203\uFF09-1-solid1"
+    4300012: "GCM-030105M\u652F\u6746\uFF08203\uFF09-2-solid1"
+    4300014: "GCM-030105M\u652F\u6746\uFF08203\uFF09-3-solid1"
+    4300016: "\u76F8\u673A\u53F0-1-solid1"
+    4300018: "\u578B\u6750\u58F3-1-solid1"
+    4300020: "\u5730\u811A\uFF08\u6539\uFF09-1-solid1"
+    4300022: "\u5730\u811A\uFF08\u6539\uFF09-2-solid1"
+    4300024: "\u5730\u811A\uFF08\u6539\uFF09-3-solid1"
+    4300026: "\u5730\u811A\uFF08\u6539\uFF09-4-solid1"
+    4300028: "\u7AEF\u76D6-1-solid1"
+    4300030: "\u5835\u5934-1-solid1"
+    4300032: "\u52A8\u5757-1-solid1"
+    4300034: Lid Nut GB-1-solid1
+    4300036: Lid Nut GB-2-solid1
+    4300038: Lid Nut GB-3-solid1
+    4300040: Hexagon socket head cap screws GB-1-solid1
+    4300042: Hexagon socket head cap screws GB-2-solid1
+    4300044: Hexagon socket head cap screws GB-3-solid1
+    4300046: Hexagon socket head cap screws GB-4-solid1
+    4300048: Hexagon socket head cap screws GB-5-solid1
+    4300050: Hexagon socket head cap screws GB-6-solid1
+    4300052: Hexagon socket head cap screws GB-7-solid1
+    4300054: Hexagon socket head cap screws GB-8-solid1
+    4300056: Knurled thumb screws GB-1-solid1
+    4300058: Knurled thumb screws GB-2-solid1
+    4300060: Knurled thumb screws GB-3-solid1
+    4300062: Hexagon socket head cap screws GB-9-solid1
+    4300064: Hex socket set screws with cone point GB-3-solid1
+    4300066: Hex socket set screws with cone point GB-4-solid1
+    4300068: "M6 \u87BA\u7EB9\u5B54002"
+    4300070: "\u5012\u89D23"
+    4300072: "\u9501\u7D27\u94AE-1-solid1"
+    4300074: "\u5BF9\u8C61001"
+    4300076: "\u5012\u89D2005"
+    4300078: "\u5916\u58F3-1-solid1"
+    4300080: "\u63A5\u7EBF-1-solid1"
+    4300082: "\u524D\u9762\u677F-1-solid1"
+    4300084: "\u80CC\u5149\u677F-1-solid1"
+    4300086: "\u5916\u58F3-1-solid003"
+    4300088: "\u63A5\u7EBF-1-solid003"
+    4300090: Cross recessed countersunk head screws GB1-1-solid003
+    4300092: Cross recessed countersunk head screws GB1-2-solid003
+    4300094: Cross recessed countersunk head screws GB1-3-solid1
+    4300096: Cross recessed countersunk head screws GB1-4-solid1
+    4300098: "\u538B\u6761-1-solid1"
+    4300100: "\u538B\u6761-2-solid1"
+    4300102: Cross recessed small pan head screws GB-1-solid1
+    4300104: Cross recessed small pan head screws GB-2-solid1
+    4300106: Cross recessed small pan head screws GB-3-solid1
+    4300108: Cross recessed small pan head screws GB-4-solid1
+    4300110: "\u955C\u7B52-1-solid1"
+    4300112: "\u53CC\u51F8\u900F\u955C-1-solid1"
+    4300114: "C\u63A5\u5708-1-solid1"
+    4300116: "\u5927\u9501\u5708-1-solid1"
+    4300118: "M6 \u87BA\u7EB9\u5B54003"
+    4300120: "\u5012\u89D2006"
+    4300122: "\u9501\u7D27\u94AE-2-solid002"
+    4300124: "\u5BF9\u8C61002"
+    4300126: "\u5012\u89D2007"
+    4300128: "\u5916\u58F3-1-solid004"
+    4300130: "\u63A5\u7EBF-1-solid004"
+    4300132: Box001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 32df409278547a2498bf2c0f08068a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 36fe5aa834a34d64092c361f3c048801, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
