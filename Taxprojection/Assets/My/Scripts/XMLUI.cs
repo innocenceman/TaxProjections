@@ -11,7 +11,7 @@ public class XMLUI : MonoBehaviour
 
     void Update()
     {
-        
+        Debug.Log("123");
     }
 
     void OnGUI()
@@ -40,7 +40,7 @@ public class XMLUI : MonoBehaviour
             addXMLData();
             Debug.Log("增加XML");
         }
-        
+        Debug.Log("123");
     }
 
     //创建XML
