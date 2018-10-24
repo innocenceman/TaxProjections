@@ -40,7 +40,6 @@ public class XMLUI : MonoBehaviour
             addXMLData();
             Debug.Log("增加XML");
         }
-        Debug.Log("123");
     }
 
     //创建XML
