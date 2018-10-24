@@ -11,7 +11,7 @@ public class XMLUI : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("123");
+
     }
 
     void OnGUI()
